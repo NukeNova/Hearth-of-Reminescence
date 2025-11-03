@@ -8,6 +8,7 @@ Personal little project on making a broad linux cheat sheet
 ### **Beginning**
 
 
+
 ### [tlp](https://linrunner.de/tlp/)
 For controlling cpu properties
 tlp is configured in its ``/etc/tlp.conf`` directory and is started via
