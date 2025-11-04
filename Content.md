@@ -28,7 +28,7 @@ run `$ java -jar` to execute java executables
 
 ### [Sha256sum](https://man.archlinux.org/man/sha256sum.1.en)
 
-run `$ sha256sum -c 'hashsum.txt' 'funky.iso`
+run `$ sha256sum -c 'hashsum.txt' 'funky.iso'`
 
 For checking sha256sums
 
