@@ -17,7 +17,7 @@ tlp is configured in its ``/etc/tlp.conf`` directory and is started via
 
 
 ### [OpenJDK](https://openjdk.org/index.html)
-for java
+For java
 
 Packaged in almost every distro's repository
 
@@ -28,11 +28,17 @@ run `$ java -jar` to execute java executables
 
 ### [Sha256sum](https://man.archlinux.org/man/sha256sum.1.en)
 
+For checking sums
+
 run `$ sha256sum -c 'hashsum.txt' 'funky.iso'`
 
-For checking sha256sums
+OR
 
-if hashum file has multiple hashies add ` --ignore-missing`
+### [Blake2](https://www.blake2.net/)
+
+run `$ b2sum -c 'b2sum.txt'` within the same directory as the iso file
+
+if hashie file has multiple hashies add ` --ignore-missing`
 
 
 
