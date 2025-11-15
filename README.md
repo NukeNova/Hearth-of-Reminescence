@@ -1,3 +1,3 @@
-# Funky cheat sheet for me
+# Funky cheat sheet
 
-this is just a personal project for remembering shit
+this is just a project for remembering shit
