@@ -63,6 +63,11 @@ with xfce4-screenshooter
 very nice man page thingy
 
 
+### [Bpytop](https://github.com/aristocratos/bpytop)
+
+amazing resource monitor
+
+
 
 
 
