@@ -41,6 +41,16 @@ run `$ b2sum -c 'b2sum.txt'` within the same directory as the iso file
 if hashie file has multiple hashies add ` --ignore-missing`
 
 
+### [Dust](https://github.com/bootandy/dust)
+
+Dust is a cute little visualizer of disk space usage
+
+### [tty-clock](https://github.com/xorg62/tty-clock)
+
+Funky little clock 
+
+
+
 
 
 
