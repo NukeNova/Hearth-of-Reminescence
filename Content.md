@@ -49,6 +49,14 @@ Dust is a cute little visualizer of disk space usage
 
 Funky little clock 
 
+### Screenshotting
+
+with xfce4-screenshooter
+
+`xfce4-screenshooter --region --clipboard` for a nice region pick and copy to clipboard
+
+`xfce4-screenshooter --clipboard -f` for a silent screenshot of the entire screen
+
 
 
 
