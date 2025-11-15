@@ -68,6 +68,16 @@ very nice man page thingy
 amazing resource monitor
 
 
+### [gping](https://github.com/orf/gping)
+
+funky ping with a graph
+
+
+### [Speedtest CLI](https://www.speedtest.net/apps/cli)
+
+Ooklas speedtest but CLI
+
+
 
 
 
