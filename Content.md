@@ -58,6 +58,10 @@ with xfce4-screenshooter
 `xfce4-screenshooter --clipboard -f` for a silent screenshot of the entire screen
 
 
+### [tldr](https://tldr.sh/)
+
+very nice man page thingy
+
 
 
 
