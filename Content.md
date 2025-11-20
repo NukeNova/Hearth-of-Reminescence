@@ -79,6 +79,12 @@ Ooklas speedtest but CLI
 
 
 
+### [Xwinwrap](https://github.com/mmhobi7/xwinwrap)
+
+wallpaper engine for linux
+
+run `nice xwinwrap -b -s -fs -st -sp -nf -ov -fdt -- mpv -wid WID --really-quiet --framedrop=vo --no-audio --panscan="1.0" /path/to/your/video`
+
 
 
   
